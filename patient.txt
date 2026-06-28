@@ -1,0 +1,10 @@
+P1,Fahad,2,Fever,Children,1,1
+P2,Ali,13,Flu-Cough,Children,1,2
+P3,Ahsan,44,Heart attack,heart,1,1
+P5,Faheem,34,Heart attack,heart,1,2
+P6,Abdul Saboot,52,Chest pain,heart,2,1
+P8,Waheed,73,Stomach pain,gynecology,1,1
+P9,Haris Sohail,43,Covid,Medical,1,1
+P10,Falak,10,Back pain,children,2,1
+P11,Shadab,9,Tissue damage,children,2,2
+P12,Waheed Ali,55,Cancer,Medical,1,2
